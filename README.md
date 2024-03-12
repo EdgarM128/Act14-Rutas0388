@@ -1,4 +1,4 @@
-# p13router0388
+# p14-router0388
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -17,3 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Rutas de paginas con diseño en: FlutLab - Flutter Online IDE
+
+- Link de referencia 1: https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
+- Link de referencia 2: https://andygeek.com/posts/Creando-cards-en-flutter/
+
+- Edgar Emilio Meraz Acosta a.21308051280388@cbtis128.edu.mx
+
+##Imagenes de mi aplicacion
+
+- ![image](https://github.com/EdgarM128/Act14-Rutas0388/assets/145927073/c2c843b1-2c8c-44e0-adda-b2558587ee7b)
+- ![image](https://github.com/EdgarM128/Act14-Rutas0388/assets/145927073/830977c8-e863-4569-b1da-d52d17d174ba)
+- ![image](https://github.com/EdgarM128/Act14-Rutas0388/assets/145927073/c3644b2a-520f-4422-a6fa-c1b226273958)
